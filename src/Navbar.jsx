@@ -104,7 +104,7 @@ const Navbar = (props) => {
                                 )
                             })}
                             <Button><Link
-                                href="http://localhost:3001/"
+                                href="https://andrewhelegson.github.io/my-cv-ru/"
                                 underline="none" ><Typography
                                     color="#000000"
                                     sx={{
