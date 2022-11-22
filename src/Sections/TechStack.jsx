@@ -272,7 +272,6 @@ const TechStack = () => {
                 </Typography>
             </Card >
             <Typography>
-                communication with the team <br />
                 communication<br />
                 prioritizing tasks<br />
                 fast learning<br />
