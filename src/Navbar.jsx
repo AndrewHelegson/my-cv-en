@@ -2,7 +2,7 @@ import { AppBar, Box, Toolbar, Button, ButtonGroup, Link, LinearProgress, useScr
 import { Link as MyLink } from "react-scroll"
 import { useEffect, useState } from "react";
 import { Stack } from '@mui/system';
-////////////
+/////////////1
 function HideOnScroll(props) {
     const { children, window } = props;
     const trigger = useScrollTrigger({
@@ -38,7 +38,7 @@ const Navbar = (props) => {
             labael: "Contacts"
         },
     ]
-    ///
+    ////
     const [scrollTop, setScrollTop] = useState(0);
 
     const onScroll = () => {
