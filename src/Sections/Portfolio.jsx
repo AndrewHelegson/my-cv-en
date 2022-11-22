@@ -21,7 +21,7 @@ const images = [
     {
         name: 'Todo list',
         img: image3,
-        text:'Simple todo list using react hooks',
+        text:'Simple todo list using react hooks and local storage',
         link:'https://andrewhelegson.github.io/local-storage-todo-list-practice/'
     },
 ]
